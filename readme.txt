@@ -1,1 +1,1 @@
-readme for jdbc
+readme for api
